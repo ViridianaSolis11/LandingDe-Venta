@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T01:45:02.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OCrLWsLvw4zYPt9aFyVO" version="21.5.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-07-03T04:06:00.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4ED8Ac7Bq-JLVPf-LbQH" version="21.5.2" type="device">
   <diagram name="Página-1" id="VHnRYB-Pnip1US0FHjOz">
     <mxGraphModel dx="1173" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,33 @@
         </mxCell>
         <mxCell id="C-uQxye3BFiUdm0gClUF-15" value="&lt;div style=&quot;border-radius: 0px; flex-grow: 0; place-content: stretch flex-start; align-self: auto; overflow: visible; flex-direction: row; align-items: stretch; position: static; flex-shrink: 0; display: flex; box-sizing: border-box; background-color: rgb(0, 0, 0); color: rgb(245, 245, 245); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 14px; text-align: start;&quot; class=&quot;x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1uhb9sk x1plvlek xryxfnj x1c4vz4f x2lah0s x1q0g3np xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;color: rgb(245, 245, 245); font-size: var(--system-14-font-size); font-weight: var(--font-weight-system-regular); margin: 0px; padding: 0px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif; line-height: var(--system-14-line-height); text-align: start; background-color: rgb(0, 0, 0);&quot; dir=&quot;auto&quot; class=&quot;_aacl _aaco _aacu _aacx _aad6 _aade&quot;&gt;•Gel semi-permanente&lt;br&gt;•Extensión Escultura&lt;br&gt;•Extensión Tip&lt;br&gt;•Manicura&lt;br&gt;•Pedicura&lt;br&gt;•Rizado de pestañas&lt;br&gt;•Pestañas 1x1&lt;br&gt;𝐀𝐩𝐚𝐫𝐭𝐚 𝐭𝐮 𝐜𝐢𝐭𝐚: 444 309 5386&lt;/h1&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="215" y="230" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-16" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-17" value="NUESTROS PRODUCTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-18" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-19" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="510" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-20" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-21" value="¿SABIAS QUE?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="700" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-22" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="780" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-23" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="780" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C-uQxye3BFiUdm0gClUF-24" value="imagen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="180" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
