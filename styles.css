@@ -47,7 +47,7 @@ body{
 .Contenido{
     width: auto;
     height: 520px;
-    border: 2px solid orangered;
+    /*border: 2px solid orangered;*/
     color: rgb(12, 12, 12);
     font-weight: bold;
     font-size: 1em;
@@ -71,7 +71,7 @@ body{
 .blog{
     width: auto;
     height: 520px;
-    border: 2px solid orangered;
+    /*border: 2px solid orangered;*/
     text-align: center;
 }
 #blogI{
@@ -80,13 +80,29 @@ body{
     padding: 5px;
 }
 
+/* ESTILOS ¿SABIAS QUE?*/
+.sabiasQ{
+    height: 500px;
 
-
+}
+.marco{
+    width: 360px;
+    height: 310px;
+    margin-left: 70px;
+    background-color: azure;
+    float: left;
+    overflow: hidden;
+}
+#imagenMarco{
+    margin: 5px;
+    width: 350px;
+    height: 300px;
+}
 /*Estilos de footer*/
 .PiePagina{
     width: auto;
     height: 230px;
-    background-color: rgb(252, 217, 224);
+    background-color: rgb(255, 254, 254);
 }
 
 .iconos{
