@@ -44,9 +44,8 @@ body{
 }
 .PiePagina{
     width: auto;
-    height: 200px;
+    height: 230px;
     background-color: white;
-    display: flex;
 }
 
 .iconos{
@@ -54,15 +53,40 @@ body{
     margin-left: 15px;
     padding-left: 20px;
     margin-top: 35px;
+    opacity: .8;
 }
 .iconos1{
-    width: 250px;
+    width: auto;
     height: 50px;
-   
+    /*border: 1px solid red;*/
+}
 
-    border: 1px solid red;
+.Informacion{
+    width: auto;
+    height: auto;
+    display: flex;
+    padding-left: 250px;
+   /* border: 1px solid black;*/
+}
+#info{
+    margin-left:350px;
+    margin-top: -15px;
+    /*border: 1px solid maroon;*/
+    text-align: center;
+
+}
+.copyr{
+    width: auto;
+    height: 20px;
+    text-align: center;
+    color: #f288cb
+
 }
 
 hr{
    border-color: #f288cb;
+   opacity: .2;
+}
+h3{
+    color: #f288cb;
 }
