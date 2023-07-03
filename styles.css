@@ -1,5 +1,5 @@
 body{
-    background-color: hotpink;
+    background-color: rgb(252, 217, 224);
     margin: 0;
 }
 #logo{
@@ -9,10 +9,11 @@ body{
     margin-top: 2px;
     margin-left: 2px;
 }
+/*Estilos de header*/
 .headerL{
     width: 700px;
     height: 155px;
-    background-color: white;
+    background-color: rgb(252, 217, 224);
     margin: 0 auto;
     display: flex;
 }
@@ -27,7 +28,7 @@ body{
     font-family:Arial;
     font-weight:bold;
     font-size:18px;
-    color: pink;
+    color: white;
     margin-top: 70px;
     margin-left: 100px;    
 }
@@ -35,17 +36,40 @@ body{
 #lista1{
 
     text-decoration:none;
-    color: pink;
+    color: white;
 }
+
+
+
+/*Estilos de contenido*/
 .Contenido{
     width: auto;
     height: 800px;
-    border: 2px solid orangered;
+    /*border: 2px solid orangered;*/
 }
+ 
+#certRegalo{
+    /*estilos de la imagen */
+    width: 500px; 
+    height:500px;
+    float: right;
+}
+.certiRega{
+    /*Estilos del texto */
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+/*Estilos de footer*/
 .PiePagina{
     width: auto;
     height: 230px;
-    background-color: white;
+    background-color: rgb(252, 217, 224);
 }
 
 .iconos{
@@ -75,11 +99,19 @@ body{
     text-align: center;
 
 }
+
+#lista2 {
+
+    text-decoration:none;
+    color: #f288cb;
+    font-size: 1em;
+    font-family:Arial;
+}
 .copyr{
     width: auto;
     height: 20px;
     text-align: center;
-    color: #f288cb
+    color: #f288cb;
 
 }
 
@@ -89,4 +121,5 @@ hr{
 }
 h3{
     color: #f288cb;
+    
 }
