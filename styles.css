@@ -1,0 +1,68 @@
+body{
+    background-color: hotpink;
+    margin: 0;
+}
+#logo{
+
+    width: 150px;
+    height: 150px;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+.headerL{
+    width: 700px;
+    height: 155px;
+    background-color: white;
+    margin: 0 auto;
+    display: flex;
+}
+#lista li{
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}
+  
+#lista
+{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:18px;
+    color: pink;
+    margin-top: 70px;
+    margin-left: 100px;    
+}
+
+#lista1{
+
+    text-decoration:none;
+    color: pink;
+}
+.Contenido{
+    width: auto;
+    height: 800px;
+    border: 2px solid orangered;
+}
+.PiePagina{
+    width: auto;
+    height: 200px;
+    background-color: white;
+    display: flex;
+}
+
+.iconos{
+    color: #f288cb;
+    margin-left: 15px;
+    padding-left: 20px;
+    margin-top: 35px;
+}
+.iconos1{
+    width: 250px;
+    height: 50px;
+   
+
+    border: 1px solid red;
+}
+
+hr{
+   border-color: #f288cb;
+}
