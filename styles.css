@@ -8,15 +8,21 @@ body{
     width: 150px;
     height: 150px;
     margin-top: 2px;
-    margin-left: 2px;
+    margin-left: 600px;
+
 }
 /*Estilos de header*/
 .headerL{
-    width: 700px;
+    width: auto;
     height: 155px;
     background-color: rgb(252, 217, 224);
     margin: 0 auto;
     display: flex;
+}
+.menu{
+    float: left;
+    margin-left: 150px;
+    /*border: 1px solid red;*/
 }
 #lista li{
     display:inline;
